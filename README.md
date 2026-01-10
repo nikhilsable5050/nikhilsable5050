@@ -5,12 +5,13 @@
 - 💻 Focused on backend development with **Java & Spring Boot**
 - 🧠 Interested in **Data Structures & Problem Solving**
 - 🛠️ Built projects using **REST APIs, CRUD, and layered architecture**
+- 🗄️ Experience with **SQL, MySQL, and PostgreSQL**
 - 📚 Currently learning **Spring Boot, JPA, and backend best practices**
 - 🤝 Open to **internships & fresher opportunities**
 
-📌 Featured work: Spring Boot projects, REST APIs, and Java DSA practice
-
+📌 Featured work: Spring Boot projects, REST APIs, Java DSA practice  
 ⭐ Always learning and improving.
+
 
 <!---
 nikhilsable5050/nikhilsable5050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
