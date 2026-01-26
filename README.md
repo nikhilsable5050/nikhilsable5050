@@ -6,7 +6,7 @@
 - 💻 Focused on backend development with **Java & Spring Boot**
 - 🧠 Interested in **Data Structures & Problem Solving**
 - 🛠️ Built projects using **REST APIs, CRUD, and layered architecture**
-- 🗄️ Experience with **SQL, MySQL, and PostgreSQL**
+- 🗄️ Experience with **SQL databases (MySQL, PostgreSQL) and MongoDB**
 - 📚 Currently learning **Spring Boot, JPA, and backend best practices**
 - 🤝 Open to **internships & fresher opportunities**
 
