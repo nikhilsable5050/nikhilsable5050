@@ -34,21 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilsable5050&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsable5050&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nikhilsable5050&theme=tokyonight"/>
-</p>
-
----
-
 ### 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsable5050&theme=tokyo-night"/>
