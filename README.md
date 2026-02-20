@@ -34,12 +34,5 @@
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsable5050&theme=tokyo-night"/>
-</p>
-
----
-
 ### ⭐ Motto
 ✨ *Always learning. Always improving.*
