@@ -16,7 +16,7 @@
 🔐 Familiar with **Spring Security & JPA**  
 🗄️ Experience with **MySQL, PostgreSQL & MongoDB**  
 📦 Hands-on with **Docker & API development**  
-🏗️ Currently learning **System Design**  
+🏗️ Currently learning **System Design and Spring Security**  
 🤝 Open to **Internships & Fresher Opportunities**
 
 ---
