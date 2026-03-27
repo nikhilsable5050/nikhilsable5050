@@ -61,17 +61,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsable5050&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsable5050&theme=tokyonight" />
-</p>
-
----
-
 ## ⭐ Motto
 ✨ *Always learning. Always improving.*
