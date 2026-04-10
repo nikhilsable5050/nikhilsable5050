@@ -9,10 +9,6 @@
 
 ---
 
-<h2 align="center">💻 Full Stack Developer</h2>
-
----
-
 ## 🛠️ Tech Stack
 
 <h3 align="center">Frontend</h3>
