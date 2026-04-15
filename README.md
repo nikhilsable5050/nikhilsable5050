@@ -1,6 +1,5 @@
-# Hi 👋 I'm Nikhil Sable
+# Hi 👋 I'm Nikhil Sable and I'm a Java Full Stack Developer...
 
-🚀 **Java Full Stack Developer | Spring Boot & React**
 
 <!-- Typing Animation -->
 <p align="center">
@@ -52,7 +51,7 @@
 🔐 Hands-on with **Spring Security & JWT Authentication**  
 🗄️ Experience with **MySQL, PostgreSQL & MongoDB**  
 📦 Hands-on with **Docker & API development**  
-🏗️ Currently learning **System Design & DevOps**  
+🏗️ Currently learning **Mircoservices & DevOps**  
 🤝 Open to **Internships & Fresher Opportunities**
 
 ---
