@@ -1,5 +1,4 @@
-Hi 👋 I'm Nikhil Sable — Java Full Stack Developer.
-
+# Hi 👋 I'm Nikhil Sable | Java Full Stack Developer 🚀
 
 <!-- Typing Animation -->
 <p align="center">
