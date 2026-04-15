@@ -1,4 +1,4 @@
-# Hi 👋 My name is Nikhil Sable and I'm a Java Full Stack Developer...
+Hi 👋 I'm Nikhil Sable — Java Full Stack Developer.
 
 
 <!-- Typing Animation -->
