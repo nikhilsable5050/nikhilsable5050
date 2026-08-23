@@ -1,6 +1,6 @@
 # Hi 👋 I'm Nikhil Sable
 
-### Java Backend Developer | Spring Boot | Spring Security | DSA 🚀
+### Java Backend Developer | Spring Boot | Spring Security | DSA 
 
 ---
 
